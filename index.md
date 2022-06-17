@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the new and improved studying for the better.
 
-You can use the [editor on GitHub](https://github.com/dobbas/stxdy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Main Website](https://sites.google.com/view/studyingforthebetter/home) to watch movies, and so on.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
